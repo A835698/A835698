@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @A835698
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Avinash
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Business Intelligence Projects
+- 📫 How to reach me ...ping me on +1(616)-325-8286.
 
 <!---
 A835698/A835698 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
